@@ -17,7 +17,6 @@ function myFunction() {
 const calculator = document.querySelector(".calculator-wrapper");
 const keys = calculator.querySelector(".buttons");
 const display = document.querySelector(".number-screen");
-
 let prevNumber = "";
 let currentNumber = "0";
 let calculationOperation = "";
